@@ -1,0 +1,17 @@
+{
+  "name": "SharkAgar",
+  "identifier": "sharkagar.github.com",
+  "sourceURL": "https://raw.githubusercontent.com/TestAccountFooBar/SharkAgar/main/apps.json",
+  "apps": [
+    {
+      "name": "SharkMod",
+      "bundleIdentifier": "com.miniclip.agar.io",
+      "version": "1.5.4",
+      "size": 142586675,
+      "downloadURL": "https://github.com/TestAccountFooBar/SharkAgar/releases/download/v1.0/SharkMod_1.5.4.ipa",
+      "developerName": "@ytb.shark"
+      "localizedDescription": "Agar.io with macro, multiple macro buttons, dynamic score, zoom, etc.",
+      "iconURL": "https://github.com/TestAccountFooBar/SharkAgar/blob/main/agar.png?raw=true"
+    }
+  ]
+}
