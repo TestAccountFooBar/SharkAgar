@@ -1,78 +1,48 @@
 {
-  "repoName": "SharkAgar eSign Repo",
-  "repoVersion": "1.0",
+  "name": "SharkAgar TrollApps Repo",
+  "sourceURL": "https://raw.githubusercontent.com/TestAccountFooBar/SharkAgar/main/apps.json",
   "apps": [
     {
       "name": "SharkMod",
-      "bundleID": "com.miniclip.agar.io",
-      "version": "1.0",
+      "bundleIdentifier": "com.miniclip.agar.io",
+      "developerName": "@ytb.shark",
+      "subtitle": "Agar.io, modded by Shark",
+      "localizedDescription": "Agar.io with macro, multiple macro buttons, dynamic score, zoom, etc.",
       "iconURL": "https://github.com/TestAccountFooBar/SharkAgar/blob/main/agar.png?raw=true",
-      "ipaURL": "https://github.com/TestAccountFooBar/SharkAgar/releases/download/v1.0/SharkMod_1.0.ipa",
-      "description": "SharkMod version 1.0 for Agar.io by @ytb.shark",
-      "developer": "@ytb.shark",
-    },
-    {
-      "name": "SharkMod",
-      "bundleID": "com.miniclip.agar.io",
-      "version": "1.1",
-      "iconURL": "https://github.com/TestAccountFooBar/SharkAgar/blob/main/agar.png?raw=true",
-      "ipaURL": "https://github.com/TestAccountFooBar/SharkAgar/releases/download/v1.1/SharkMod_1.1.ipa",
-      "description": "SharkMod version 1.1 for Agar.io by @ytb.shark",
-      "developer": "@ytb.shark",
-    },
-    {
-      "name": "SharkMod",
-      "bundleID": "com.miniclip.agar.io",
-      "version": "1.3.2",
-      "iconURL": "https://github.com/TestAccountFooBar/SharkAgar/blob/main/agar.png?raw=true",
-      "ipaURL": "https://github.com/TestAccountFooBar/SharkAgar/releases/download/v1.3.2/SharkMod_1.3.2.ipa",
-      "description": "SharkMod version 1.3.2 for Agar.io by @ytb.shark",
-      "developer": "@ytb.shark",
-    },
-    {
-      "name": "SharkMod",
-      "bundleID": "com.miniclip.agar.io",
-      "version": "1.3.5",
-      "iconURL": "https://github.com/TestAccountFooBar/SharkAgar/blob/main/agar.png?raw=true",
-      "ipaURL": "https://github.com/TestAccountFooBar/SharkAgar/releases/download/v1.3.5/SharkMod_1.3.5.ipa",
-      "description": "SharkMod version 1.3.5 for Agar.io by @ytb.shark",
-      "developer": "@ytb.shark",
-    },
-    {
-      "name": "SharkMod",
-      "bundleID": "com.miniclip.agar.io",
-      "version": "1.5.0",
-      "iconURL": "https://github.com/TestAccountFooBar/SharkAgar/blob/main/agar.png?raw=true",
-      "ipaURL": "https://github.com/TestAccountFooBar/SharkAgar/releases/download/v1.5.0/SharkMod_1.5.0.ipa",
-      "description": "SharkMod version 1.5.0 for Agar.io by @ytb.shark",
-      "developer": "@ytb.shark",
-    },
-    {
-      "name": "SharkMod",
-      "bundleID": "com.miniclip.agar.io",
-      "version": "1.5.2",
-      "iconURL": "https://github.com/TestAccountFooBar/SharkAgar/blob/main/agar.png?raw=true",
-      "ipaURL": "https://github.com/TestAccountFooBar/SharkAgar/releases/download/v1.5.2/SharkMod_1.5.2.ipa",
-      "description": "SharkMod version 1.5.2 for Agar.io by @ytb.shark",
-      "developer": "@ytb.shark",
-    },
-    {
-      "name": "SharkMod",
-      "bundleID": "com.miniclip.agar.io",
-      "version": "1.5.3",
-      "iconURL": "https://github.com/TestAccountFooBar/SharkAgar/blob/main/agar.png?raw=true",
-      "ipaURL": "https://github.com/TestAccountFooBar/SharkAgar/releases/download/v1.5.3/SharkMod_1.5.3.ipa",
-      "description": "SharkMod version 1.5.3 for Agar.io by @ytb.shark",
-      "developer": "@ytb.shark",
-    },
-    {
-      "name": "SharkMod",
-      "bundleID": "com.miniclip.agar.io",
-      "version": "1.5.4",
-      "iconURL": "https://github.com/TestAccountFooBar/SharkAgar/blob/main/agar.png?raw=true",
-      "ipaURL": "https://github.com/TestAccountFooBar/SharkAgar/releases/download/v1.5.4/SharkMod_1.5.4.ipa",
-      "description": "SharkMod version 1.5.4 for Agar.io by @ytb.shark",
-      "developer": "@ytb.shark",
+      "versions": [
+        {
+          "version": "1.0",
+          "downloadURL": "https://github.com/TestAccountFooBar/SharkAgar/releases/download/v1.0/SharkMod_1.0.ipa"
+        },
+        {
+          "version": "1.1",
+          "downloadURL": "https://github.com/TestAccountFooBar/SharkAgar/releases/download/v1.0/SharkMod_1.1.ipa"
+        },
+        {
+          "version": "1.3.2",
+          "downloadURL": "ttps://github.com/TestAccountFooBar/SharkAgar/releases/download/v1.0/SharkMod_1.3.2.ipa"
+        },
+{
+          "version": "1.3.5",
+          "downloadURL": "https://github.com/TestAccountFooBar/SharkAgar/releases/download/v1.0/SharkMod_1.3.5.ipa"
+        },5
+        {
+          "version": "1.5.0",
+          "downloadURL": "https://github.com/TestAccountFooBar/SharkAgar/releases/download/v1.0/SharkMod_1.5.0.ipa"
+        },
+        {
+          "version": "1.5.2",
+          "downloadURL": "https://github.com/TestAccountFooBar/SharkAgar/releases/download/v1.0/SharkMod_1.5.2.ipa"
+        },
+        {
+          "version": "1.5.3",
+          "downloadURL": "https://github.com/TestAccountFooBar/SharkAgar/releases/download/v1.0/SharkMod_1.5.3.ipa"
+        },
+        {
+          "version": "1.5.4",
+          "downloadURL": "https://github.com/TestAccountFooBar/SharkAgar/releases/download/v1.0/SharkMod_1.5.4.ipa"
+        }
+      ]
     }
   ]
 }
