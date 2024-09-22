@@ -3,10 +3,6 @@
 <p align="center"><strong>A collection of SharkMod versions for Agar.io, for easy sideloading with eSign, Appdb, Scarlet, AltStore, Feather.</strong></p>
 
 <p align="center">
-  <a href="https://github.com/TestAccountFooBar/SharkAgar/releases/latest"><img src="https://img.shields.io/github/v/release/TestAccountFooBar/SharkAgar/?color=%232ea44f&label=Latest%20Release" alt="Latest Release Badge"></a>
-</p>
-
-<p align="center">
     <a href="https://github.com/TestAccountFooBar/SharkAgar/releases/latest"><img src="https://img.shields.io/github/downloads/TestAccountFooBar/SharkAgar/latest/total?color=%23007BFF&label=Downloads%20(Latest%20Release)" alt="Downloads (Latest Release) Badge"></a>
     <a href="https://github.com/TestAccountFooBar/SharkAgar/releases"><img src="https://img.shields.io/github/downloads/TestAccountFooBar/SharkAgar/total?color=%23007BFF&label=Total%20Downloads" alt="Total Downloads Badge"></a>
 </p>
