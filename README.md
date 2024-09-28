@@ -44,7 +44,7 @@
 </p>
 
 <p align="center">
-    <a href="https://fwuf.in/#/sideloadly://install?ipa=https://github.com/TestAccountFooBar/SharkAgar/releases/download/v1.5.4/SharkMod_1.5.4.ipa">
+    <a href="https://fwuf.in/#/sideloadly:https://github.com/TestAccountFooBar/SharkAgar/releases/download/v1.5.4/SharkMod_1.5.4.ipa">
     <img src="https://img.shields.io/badge/Sideload%20with%20Sideloadly-%2016CDC4?style=for-the-badge&color=16CDC4" alt="Sideload with Sideloadly">
   </a>
 </p>
