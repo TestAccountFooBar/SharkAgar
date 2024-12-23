@@ -6,9 +6,9 @@
     {
       "name": "SharkMod",
       "bundleIdentifier": "com.miniclip.agar.io",
-      "version": "1.5.5",
+      "version": "1.6.0",
       "size": 142586675,
-      "downloadURL": "https://github.com/TestAccountFooBar/SharkAgar/releases/download/v1.5.5/SharkMod_1.5.5.ipa",
+      "downloadURL": "https://github.com/TestAccountFooBar/SharkAgar/releases/download/v1.6.0/SharkMod_1.6.0.ipa",
       "developerName": "@ytb.shark"
       "localizedDescription": "Agar.io with macro, multiple macro buttons, dynamic score, zoom, etc.",
       "iconURL": "https://github.com/TestAccountFooBar/SharkAgar/blob/main/agar.png?raw=true"
