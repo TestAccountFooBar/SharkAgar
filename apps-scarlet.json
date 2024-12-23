@@ -6,8 +6,8 @@
     "Agar.io Mod": [
     {
       "name": "Agar.io",
-      "version": "1.5.5",
-      "down": "https://github.com/TestAccountFooBar/SharkAgar/releases/download/v1.5.5/SharkMod_1.5.5.ipa",
+      "version": "1.6.0",
+      "down": "https://github.com/TestAccountFooBar/SharkAgar/releases/download/v1.6.0/SharkMod_1.6.0.ipa",
       "dev": "@ytb.shark",
       "category": "Agar.io Mod",
       "description": "Agar.io with macro, multiple macro buttons, dynamic score, zoom, etc.",
